@@ -8,7 +8,7 @@
 
 <h2>Stack</h2>
 <ul>
-  <li><a href="https://vimejs.com/" target="_blank">Vime</a></li>
+  <li><a href="https://vimejs.com/">Vime</a></li>
   <li><a href="https://www.apollographql.com/docs/react/">Apollo</a></li>
   <li><a href="https://pt-br.reactjs.org/">React Js</a></li>
   <li><a href="https://graphql.org/">GraphQL</a></li>
