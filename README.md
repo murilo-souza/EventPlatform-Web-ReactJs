@@ -22,7 +22,7 @@
 <ul>
  <li>Subscribe with GraphQL</li>
  <li>Watch classes</li>
- <li>Managed by GraphCMS</li>
+ <li>Classes managed by GraphCMS</li>
 </ul>
 
 <h2>Layout</h2>
