@@ -20,8 +20,8 @@
 
 <h2>Features</h2>
 <ul>
- <li>Subscribe with GraphQL</li>
  <li>Watch classes</li>
+ <li>Subscribe with GraphQL</li>
  <li>Classes managed by GraphCMS</li>
 </ul>
 
