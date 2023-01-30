@@ -1,4 +1,4 @@
-<h1 align="center">EventPlatform-Web-ReactJs</h1>
+<h1 align="center">Event Platform</h1>
 <br/>
 
 ![Capa](https://user-images.githubusercontent.com/53982668/190944053-8117754f-d39a-486a-8ac0-84d8e8d225db.png)
